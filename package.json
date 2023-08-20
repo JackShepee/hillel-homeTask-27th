@@ -2,7 +2,7 @@
   "name": "hillel-hometask-27th",
   "version": "1.0.0",
   "repository": {
-    "url": "https://github.com/JackShepee/hillel-homeTask-27th/tree/prod"
+    "url": "https://github.com/JackShepee/hillel-homeTask-27th.git"
   },
   "description": "",
   "main": "index.js",
